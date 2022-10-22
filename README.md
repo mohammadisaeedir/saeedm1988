@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @mohammadisaeedir
-- 👀 I’m interested in Software Engineering
-- 💞️ I’m currently have good knowledge in Python, Django, Rest Framework, Logging, Cache, Git, ...
-- 🌱 Also I’m familiar with Docker, Kubernetes, SQL, MySql, Postgresql, Celery, Sentry, Graylog, Postman, Redis, Tkinter, Object Storage, Gitlab/Github, Dockerhub, ...
-- 📫 How to reach me : https://mohammadisaeed.ir
+
